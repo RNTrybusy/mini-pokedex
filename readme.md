@@ -6,6 +6,10 @@
 
 Uma Pokédex interativa desenvolvida como parte do desafio "Construindo uma Pokédex com JavaScript" da DIO (Digital Innovation One). Este projeto consome a [PokéAPI](https://pokeapi.co/) para exibir informações sobre Pokémon em uma interface responsiva e amigável.
 
+## 📸 Preview do Projeto
+<img src="./src/images/pic_1.png" alt="Imagem um de tela do projeto" width="480px">
+<img src="./src/images/pic_2.png" alt="Imagem dois de tela do projeto" width="480px">
+
 ## 🌟 Funcionalidades
 
 - Lista os primeiros 251 Pokémon (1ª e 2ª Geração)
@@ -19,10 +23,8 @@ Uma Pokédex interativa desenvolvida como parte do desafio "Construindo uma Pok�
 
 - HTML5
 - CSS3
-- JavaScript Vanilla
+- JavaScript
 - Fetch API
-- Promises
-- POO (Programação Orientada a Objetos)
 
 ## 💻 Estrutura do Projeto
 
@@ -53,10 +55,13 @@ Uma Pokédex interativa desenvolvida como parte do desafio "Construindo uma Pok�
 
 ## 🔄 Limitações
 
-- Limitado aos 151 Pokémon da primeira geração
 - Sem sistema de busca ou filtros
 - Dependente de conexão com internet para funcionar
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor / Author
+Renato (GitHub: @RNTrybusy)
 
-**RNTrybusy**
+## Licença / License
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.
+
+This project is licensed under the MIT License - see the LICENSE file for details.
